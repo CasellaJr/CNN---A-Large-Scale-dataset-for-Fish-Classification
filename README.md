@@ -23,6 +23,14 @@ Upload the dataset provided on your Google Drive.
 
 Load the .ipynb notebook on Google Colaboratory, and you will be able to run the cells.
 
+The baseline model, and the models with 3 and 4 conv layers are respectively available at the following links:
+
+Baseline: https://colab.research.google.com/drive/1iY2DsqnwicKT_xJsnm40wvhGEfczhAbO?usp=sharing
+
+3 conv layers: https://colab.research.google.com/drive/1Xf2zxLiegpUAFfmxw4ka_26qlIIlcXWq?usp=sharing
+
+4 conv layers: https://colab.research.google.com/drive/1PvTnEVNptYThqgXOl2uj7PY419rgsvpn?usp=sharing
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
