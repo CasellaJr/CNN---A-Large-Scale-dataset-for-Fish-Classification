@@ -9,7 +9,8 @@ A deep model that consists of 2 Convolutional Layers, to extract and recognize i
 
 ## Usage
 
-Upload the dataset provided on your Google Drive.\n
+Upload the dataset provided on your Google Drive.
+
 Load the .ipynb notebook on Google Colaboratory, and you will be able to run the cells.
 
 ## Contributing
